@@ -1,0 +1,65 @@
+1)
+System Requirement Documentation for Online Employee Recruitment System 
+
+Introduction
+Online Employee Recruitment System is a system in which jobseekers can register themselves online, view organization requirements and apply for the suitable job. The system facilities where prospective candidates can upload their CV and apply for jobs suitable to them. It also makes it possible for organizations to post their staffing requirements and view profiles of interested candidates. The primary purpose to develop this system is to optimize the recruitment process for an organization.
+Scope
+The scope  of this web application is for all candidates who are looking for jobs in their respective field o interest and for organizations who wants staff/employees according to their needs.  A user has to register and login to the application in order to use its services. A candidate can filter through available options for their requirement and an organization can post new job vacancies and filter out the suitable candidate as per their requirement and job description.
+
+2) Functional Requirements
+
+a)  User Registration and Authentication
+The system shall provide user registration functionality for both recruiters and job seekers.
+Users shall be able to create accounts by providing required information.
+User authentication shall be implemented to ensure secure access to the system.
+b)  Job Posting
+Recruiters shall have the ability to create and publish job postings.
+Job postings shall include details such as job title, description, requirements, and application deadlines.
+Recruiters shall be able to edit or remove job postings as needed.
+
+c) Job Search and Filtering
+Job seekers shall be able to search for job opportunities based on various criteria such as job title, location, and keywords.
+The system shall provide filtering options to refine job search results based on job type, salary range, and other relevant factors.
+
+d) Application Submission
+Job seekers shall be able to submit their applications for desired job postings.
+The system shall allow applicants to upload their resumes, cover letters, and other required documents.
+Application submission shall be secure and support file formats commonly used in the recruitment process.
+
+e) Applicant Tracking
+Recruiters shall have access to an applicant tracking system to manage received applications.
+Recruiters shall be able to review and evaluate applicants' qualifications and skills.
+The system shall provide features to track the status of applications, such as shortlisted, rejected, or interviewed.
+
+f) Communication and Collaboration
+The system shall facilitate communication between recruiters and applicants.
+Recruiters shall be able to send messages, notifications, and updates to applicants.
+Applicants shall have the ability to ask questions and seek clarifications from recruiters.
+
+
+ 
+Non-Functional Requirements
+
+a) Security
+User authentication and sensitive information shall be securely stored and transmitted.
+Access to personal data and confidential information shall be restricted based on user roles and permissions.
+The system shall implement encryption and secure communication protocols to protect data.
+
+b) Performance
+The system shall be capable of handling a large number of concurrent users and job postings.
+Response times for searching, application submission, and other critical operations shall meet acceptable performance standards.
+The system shall be scalable to accommodate future growth and increasing demands.
+
+c) User Interface
+The user interface shall be intuitive, user-friendly, and accessible across different devices and browsers.
+Consistent design elements and navigation patterns shall be implemented throughout the system.
+The system shall provide appropriate error messages and validation checks to guide users and prevent data entry errors.
+
+d) Maintainability
+The system should be easy to maintain and should support addition of new feature.
+The system should not crash on high loading conditions.
+The database connectivity should be secure and continuous.
+
+e) Usability 
+The system should be easy to use and all features should work perfectly.
+The system should support any and all devices and OS such as windows, linux, macos, android,etc.

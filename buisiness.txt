@@ -1,0 +1,7 @@
+3)
+Business entities
+•	Candidate
+•	Job
+•	Application
+•	User
+•	Role
